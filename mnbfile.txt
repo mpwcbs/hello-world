@@ -1,1 +1,1 @@
-itest my on mnb
+test my on mnb
